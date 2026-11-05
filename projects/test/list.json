@@ -1,0 +1,5 @@
+{
+ "items": [
+  {"file": "hello", "type": "tts", "text": "Hello! The sound factory works.", "voice": "Sarah"}
+ ]
+}
