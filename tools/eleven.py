@@ -1,7 +1,7 @@
 """ElevenLabs generator for all of the apps – runs inside GitHub Actions (the API key lives only there, as a secret).
 
 Every app has its own folder: projects/<app>/list.json. The finished files are saved next to the list,
-so projects/<app>/<file>.mp3 is served at https://mazivco-design.github.io/sounds/projects/<app>/<file>.mp3
+so projects/<app>/<file>.mp3 is served at https://mazivco-design.github.io/SOUNDS/projects/<app>/<file>.mp3
 Only files that don't exist yet are made (credits are never spent twice).
 
 List entries (projects/<app>/list.json → {"items": [...]}):

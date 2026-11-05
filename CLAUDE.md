@@ -16,12 +16,12 @@ Ask one question at a time.
 1. Add items to `projects/<app>/list.json` (create the folder for a new app). Use a new file name for every new try –
    an existing file is never regenerated. To redo a file, delete the mp3 or use a new name.
 2. Commit + push to `main`.
-3. Start the workflow: `gh api -X POST repos/mazivco-design/sounds/actions/workflows/eleven.yml/dispatches -f ref=main`
+3. Start the workflow: `gh api -X POST repos/mazivco-design/SOUNDS/actions/workflows/eleven.yml/dispatches -f ref=main`
    (optional: `-f 'inputs[project]=<app>'`). Wait for the run (`.../actions/workflows/eleven.yml/runs?per_page=1`), then `git pull`.
 4. Send the owner the mp3s to listen to before wiring them into the app.
 
 ## Using the files in an app
-- URL: `https://mazivco-design.github.io/sounds/projects/<app>/<file>.mp3` (GitHub Pages, branch `main`, root).
+- URL: `https://mazivco-design.github.io/SOUNDS/projects/<app>/<file>.mp3` (GitHub Pages, branch `main`, root).
   All of the owner's Pages sites share the origin `mazivco-design.github.io`, so `fetch`/Web Audio works with no CORS issue.
 - Or copy the mp3 into the app's own repo (safer for offline / cache control). Trim silence and normalize with ffmpeg if needed:
   `silenceremove` at both ends, `loudnorm=I=-16:TP=-1.5`.
