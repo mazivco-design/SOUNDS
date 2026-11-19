@@ -1076,6 +1076,204 @@
     "stability": 0.5
    },
    "text": "מִתּוֹךְ עֶשְׂרִים."
+  },
+  {
+   "file": "he-v-q-what",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "מָה שָׁמַעְתָּ?"
+  },
+  {
+   "file": "he-v-q-right",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "נָכוֹן!"
+  },
+  {
+   "file": "he-v-q-wrong",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "לֹא. זֹאת הָיְתָה"
+  },
+  {
+   "file": "he-v-q-chose",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "וְזֶה מָה שֶׁעָנִיתָ:"
+  },
+  {
+   "file": "he-v-q-new",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כׇּל הַכָּבוֹד! נִפְתַּח מְרֻוָּח חָדָשׁ:"
+  },
+  {
+   "file": "he-v-q-again",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "עוֹד פַּעַם."
+  },
+  {
+   "file": "he-v-name-1",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "סֶקוּנְדָה קְטַנָּה."
+  },
+  {
+   "file": "he-v-name-2",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "סֶקוּנְדָה גְּדוֹלָה."
+  },
+  {
+   "file": "he-v-name-3",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "טֶרְצָה קְטַנָּה."
+  },
+  {
+   "file": "he-v-name-4",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "טֶרְצָה גְּדוֹלָה."
+  },
+  {
+   "file": "he-v-name-5",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "קְוַרְטָה זַכָּה."
+  },
+  {
+   "file": "he-v-name-6",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "טְרִיטוֹן."
+  },
+  {
+   "file": "he-v-name-7",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "קְוִינְטָה זַכָּה."
+  },
+  {
+   "file": "he-v-name-8",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "סֶקְסְטָה קְטַנָּה."
+  },
+  {
+   "file": "he-v-name-9",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "סֶקְסְטָה גְּדוֹלָה."
+  },
+  {
+   "file": "he-v-name-10",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "סֶפְּטִימָה קְטַנָּה."
+  },
+  {
+   "file": "he-v-name-11",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "סֶפְּטִימָה גְּדוֹלָה."
+  },
+  {
+   "file": "he-v-name-12",
+   "type": "tts",
+   "voice": "Danit",
+   "voice_id": "s0T0DT6EAPeX57MQpn3I",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אוֹקְטָבָה."
   }
  ]
 }
