@@ -450,6 +450,391 @@
     "stability": 0.5
    },
    "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
+  },
+  {
+   "file": "ep1b-01",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[cheerful] ברוכים הבאים ל\"נינג'אגו אצלנו בבית\"! אני אבא..."
+  },
+  {
+   "file": "ep1b-02",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] ...ואני המומחה לנינג'אגו!"
+  },
+  {
+   "file": "ep1b-03",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "היום יש לנו משפט סודי באנגלית. בסוף הפרק תגלו מה הוא אומר. Are you ready?"
+  },
+  {
+   "file": "ep1b-04",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Ready!"
+  },
+  {
+   "file": "ep1b-05",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "תגיד, יש נינג'ה שפוחד הרבה?"
+  },
+  {
+   "file": "ep1b-06",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[laughs] Jay! הוא מתלונן ונבהל מכל דבר."
+  },
+  {
+   "file": "ep1b-07",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז איך הוא בכלל נינג'ה?"
+  },
+  {
+   "file": "ep1b-08",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כי בסוף הוא תמיד עוזר לחברים שלו. גם כשהוא מפחד."
+  },
+  {
+   "file": "ep1b-09",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז Jay בעצם חזק יותר ממה שהוא חושב. באנגלית אומרים: He is stronger than he thinks."
+  },
+  {
+   "file": "ep1b-10",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Stronger than he thinks!"
+  },
+  {
+   "file": "ep1b-11",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "ומה עם Lloyd? הוא תמיד היה חזק?"
+  },
+  {
+   "file": "ep1b-12",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "לא! בהתחלה הוא היה ילד קטן ושובב, והוא רצה להיות רע כמו אבא שלו, Garmadon."
+  },
+  {
+   "file": "ep1b-13",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[surprised] רגע, אבא שלו הוא הנבל?"
+  },
+  {
+   "file": "ep1b-14",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כן! ובסוף Lloyd הפך לנינג'ה הירוק, הכי חזק מכולם."
+  },
+  {
+   "file": "ep1b-15",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז גם Lloyd לא ידע כמה הוא חזק. Lloyd was stronger than he thought."
+  },
+  {
+   "file": "ep1b-16",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כמו Jay!"
+  },
+  {
+   "file": "ep1b-17",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "עכשיו חידון. אני אומר באנגלית, אתה עונה מהר. The ninja of fire?"
+  },
+  {
+   "file": "ep1b-18",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Kai!"
+  },
+  {
+   "file": "ep1b-19",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "The ninja of ice?"
+  },
+  {
+   "file": "ep1b-20",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Zane! והוא בכלל רובוט, a nindroid!"
+  },
+  {
+   "file": "ep1b-21",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Kai's sister, the ninja of water?"
+  },
+  {
+   "file": "ep1b-22",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Nya!"
+  },
+  {
+   "file": "ep1b-23",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "The ninja of earth?"
+  },
+  {
+   "file": "ep1b-24",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Cole!"
+  },
+  {
+   "file": "ep1b-25",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[cheerful] ארבע מתוך ארבע! אתה a ninja master!"
+  },
+  {
+   "file": "ep1b-26",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "עכשיו שאלה אמיתית. היה דבר שפחדת לעשות, ובסוף הצלחת?"
+  },
+  {
+   "file": "ep1b-27",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כן! פעם פחדתי לקפוץ למים העמוקים בבריכה. אבל בסוף קפצתי, וזה היה כיף!"
+  },
+  {
+   "file": "ep1b-28",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[warm] אז גם אתה כמו Jay וLloyd. You are stronger than you think."
+  },
+  {
+   "file": "ep1b-29",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[proud] I am stronger than I think!"
+  },
+  {
+   "file": "ep1b-30",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז מה המשפט הסודי של היום?"
+  },
+  {
+   "file": "ep1b-31",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] You are stronger than you think!"
+  },
+  {
+   "file": "ep1b-32",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "ומה זה אומר?"
+  },
+  {
+   "file": "ep1b-33",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אתה חזק יותר ממה שאתה חושב!"
+  },
+  {
+   "file": "ep1b-34",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[warm] ובפעם הבאה שמשהו נראה לכם קשה, תזכרו את המשפט הזה. להתראות!"
+  },
+  {
+   "file": "ep1b-35",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Ninja, go!"
   }
  ]
 }
