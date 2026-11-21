@@ -384,6 +384,72 @@
     "stability": 0.5
    },
    "text": "[excited] Ninja, go!"
+  },
+  {
+   "file": "test-teddy",
+   "type": "tts",
+   "voice": "Teddy",
+   "voice_id": "XjGYkUkzth8BPs29fmcV",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
+  },
+  {
+   "file": "test-valfchild",
+   "type": "tts",
+   "voice": "ValfChild",
+   "voice_id": "loY1uopAz31XyhAEhNSa",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
+  },
+  {
+   "file": "test-littledude",
+   "type": "tts",
+   "voice": "LittleDude",
+   "voice_id": "fBD19tfE58bkETeiwUoC",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
+  },
+  {
+   "file": "test-austinboy",
+   "type": "tts",
+   "voice": "AustinBoy",
+   "voice_id": "Xb3zeLrTi6F4ziIcXdwk",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
+  },
+  {
+   "file": "test-dorian",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
+  },
+  {
+   "file": "test-nimrod",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Lloyd הוא הנינג'ה הירוק! ו-Jay, Kai, Zane, Cole ו-Nya הם החברים שלו. ואבא של Lloyd הוא Garmadon!"
   }
  ]
 }
