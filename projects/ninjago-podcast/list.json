@@ -1,0 +1,389 @@
+{
+ "items": [
+  {
+   "file": "ep1-01",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[cheerful] ברוכים הבאים ל\"נינג'אגו אצלנו בבית\"! אני אבא..."
+  },
+  {
+   "file": "ep1-02",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] ...ואני המומחה לנינג'אגו!"
+  },
+  {
+   "file": "ep1-03",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "היום יש לנו משפט סודי באנגלית. בסוף הפרק תגלו מה הוא אומר. Are you ready?"
+  },
+  {
+   "file": "ep1-04",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Ready!"
+  },
+  {
+   "file": "ep1-05",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "תגיד, יש נינג'ה שפוחד הרבה?"
+  },
+  {
+   "file": "ep1-06",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[laughs] ג'יי! הוא מתלונן ונבהל מכל דבר."
+  },
+  {
+   "file": "ep1-07",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז איך הוא בכלל נינג'ה?"
+  },
+  {
+   "file": "ep1-08",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כי בסוף הוא תמיד עוזר לחברים שלו. גם כשהוא מפחד."
+  },
+  {
+   "file": "ep1-09",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז ג'יי בעצם חזק יותר ממה שהוא חושב. באנגלית אומרים: He is stronger than he thinks."
+  },
+  {
+   "file": "ep1-10",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Stronger than he thinks!"
+  },
+  {
+   "file": "ep1-11",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "ומה עם לוֹיְד? הוא תמיד היה חזק?"
+  },
+  {
+   "file": "ep1-12",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "לא! בהתחלה הוא היה ילד קטן ושובב, והוא רצה להיות רע כמו אבא שלו, גַּרְמָדוֹן."
+  },
+  {
+   "file": "ep1-13",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[surprised] רגע, אבא שלו הוא הנבל?"
+  },
+  {
+   "file": "ep1-14",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כן! ובסוף לוֹיְד הפך לנינג'ה הירוק, הכי חזק מכולם."
+  },
+  {
+   "file": "ep1-15",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז גם לוֹיְד לא ידע כמה הוא חזק. Lloyd was stronger than he thought."
+  },
+  {
+   "file": "ep1-16",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כמו ג'יי!"
+  },
+  {
+   "file": "ep1-17",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "עכשיו חידון. אני אומר באנגלית, אתה עונה מהר. The ninja of fire?"
+  },
+  {
+   "file": "ep1-18",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "קאי!"
+  },
+  {
+   "file": "ep1-19",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "The ninja of ice?"
+  },
+  {
+   "file": "ep1-20",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] זיין! והוא בכלל רובוט, a nindroid!"
+  },
+  {
+   "file": "ep1-21",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "Kai's sister, the ninja of water?"
+  },
+  {
+   "file": "ep1-22",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "נִיָה!"
+  },
+  {
+   "file": "ep1-23",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "The ninja of earth?"
+  },
+  {
+   "file": "ep1-24",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "קוֹל!"
+  },
+  {
+   "file": "ep1-25",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[cheerful] ארבע מתוך ארבע! אתה a ninja master!"
+  },
+  {
+   "file": "ep1-26",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "עכשיו שאלה אמיתית. היה דבר שפחדת לעשות, ובסוף הצלחת?"
+  },
+  {
+   "file": "ep1-27",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "כן! פעם פחדתי לקפוץ למים העמוקים בבריכה. אבל בסוף קפצתי, וזה היה כיף!"
+  },
+  {
+   "file": "ep1-28",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[warm] אז גם אתה כמו ג'יי ולוֹיְד. You are stronger than you think."
+  },
+  {
+   "file": "ep1-29",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[proud] I am stronger than I think!"
+  },
+  {
+   "file": "ep1-30",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אז מה המשפט הסודי של היום?"
+  },
+  {
+   "file": "ep1-31",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] You are stronger than you think!"
+  },
+  {
+   "file": "ep1-32",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "ומה זה אומר?"
+  },
+  {
+   "file": "ep1-33",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "אתה חזק יותר ממה שאתה חושב!"
+  },
+  {
+   "file": "ep1-34",
+   "type": "tts",
+   "voice": "Nimrod",
+   "voice_id": "ZiofZHcEBTn5sRySe5h8",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[warm] ובפעם הבאה שמשהו נראה לכם קשה, תזכרו את המשפט הזה. להתראות!"
+  },
+  {
+   "file": "ep1-35",
+   "type": "tts",
+   "voice": "Dorian",
+   "voice_id": "PBHwEnXdzx0yfhIO2UCH",
+   "model": "eleven_v3",
+   "settings": {
+    "stability": 0.5
+   },
+   "text": "[excited] Ninja, go!"
+  }
+ ]
+}
