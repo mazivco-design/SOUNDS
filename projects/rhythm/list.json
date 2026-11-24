@@ -179,6 +179,36 @@
     "stability": 1.0
    },
    "seed": 42
+  },
+  {
+   "file": "count-en-e",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "E.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-and",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "And.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-a",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Uh.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
   }
  ]
 }
