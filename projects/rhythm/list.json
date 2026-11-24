@@ -1,0 +1,184 @@
+{
+ "items": [
+  {
+   "file": "drum-kick",
+   "type": "sfx",
+   "text": "single acoustic bass drum kick, dry studio recording, one hit",
+   "seconds": 0.8
+  },
+  {
+   "file": "drum-snare",
+   "type": "sfx",
+   "text": "single acoustic snare drum hit, tight, dry studio recording",
+   "seconds": 0.8
+  },
+  {
+   "file": "drum-hihat",
+   "type": "sfx",
+   "text": "single closed hi-hat hit, crisp, dry",
+   "seconds": 0.5
+  },
+  {
+   "file": "palma-fuerte",
+   "type": "sfx",
+   "text": "single flamenco palmas clara hand clap, three fingers striking flat palm, sharp bright dry crack, one clap only",
+   "seconds": 0.5
+  },
+  {
+   "file": "palma-sorda",
+   "type": "sfx",
+   "text": "single flamenco palmas sordas muffled hand clap, cupped hands, soft low dull thud, one clap only",
+   "seconds": 0.5
+  },
+  {
+   "file": "drum-clave",
+   "type": "sfx",
+   "text": "single wooden clave hit, bright click",
+   "seconds": 0.5
+  },
+  {
+   "file": "drum-cajon-bass",
+   "type": "sfx",
+   "text": "single cajon bass tone hit in the center, deep, dry",
+   "seconds": 0.8
+  },
+  {
+   "file": "drum-cajon-slap",
+   "type": "sfx",
+   "text": "single cajon slap tone hit on the edge, snappy, dry",
+   "seconds": 0.6
+  },
+  {
+   "file": "drum-conga",
+   "type": "sfx",
+   "text": "single conga open tone hit, warm, dry",
+   "seconds": 0.8
+  },
+  {
+   "file": "drum-darbuka",
+   "type": "sfx",
+   "text": "single darbuka doum low hit, deep goblet drum, dry",
+   "seconds": 0.8
+  },
+  {
+   "file": "count-en-1",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "One.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-2",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Two.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-3",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Three.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-4",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Four.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-5",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Five.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-6",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Six.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-7",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Seven.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-8",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Eight.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-9",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Nine.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-10",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Ten.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-11",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Eleven.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "count-en-12",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Twelve.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  }
+ ]
+}
