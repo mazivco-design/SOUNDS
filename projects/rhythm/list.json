@@ -209,6 +209,36 @@
     "stability": 1.0
    },
    "seed": 42
+  },
+  {
+   "file": "strum-down",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Down.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "strum-up",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Up.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "strum-chuck",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Chuck.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
   }
  ]
 }
