@@ -239,6 +239,66 @@
     "stability": 1.0
    },
    "seed": 42
+  },
+  {
+   "file": "gtr-steel-down-1",
+   "type": "sfx",
+   "text": "single acoustic steel-string guitar downstrum, pick strumming from low to high strings, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.6
+  },
+  {
+   "file": "gtr-steel-down-2",
+   "type": "sfx",
+   "text": "one acoustic steel-string guitar down strum with a pick, bright and full, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.6
+  },
+  {
+   "file": "gtr-steel-up-1",
+   "type": "sfx",
+   "text": "single acoustic steel-string guitar upstrum, light pick upstroke on the high strings, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.2
+  },
+  {
+   "file": "gtr-steel-up-2",
+   "type": "sfx",
+   "text": "one quick acoustic steel-string guitar up strum, thin and bright, high strings only, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.2
+  },
+  {
+   "file": "gtr-steel-chuck",
+   "type": "sfx",
+   "text": "acoustic guitar muted strum chuck, palm muted percussive scratch on the strings, short, no ringing notes",
+   "seconds": 0.5
+  },
+  {
+   "file": "gtr-nylon-down",
+   "type": "sfx",
+   "text": "single classical nylon-string guitar downstrum with fingers, warm, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.6
+  },
+  {
+   "file": "gtr-nylon-up",
+   "type": "sfx",
+   "text": "single classical nylon-string guitar upstrum with finger nail, soft high strings, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.2
+  },
+  {
+   "file": "gtr-electric-down",
+   "type": "sfx",
+   "text": "single clean electric guitar downstrum, no distortion, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.4
+  },
+  {
+   "file": "gtr-electric-up",
+   "type": "sfx",
+   "text": "single clean electric guitar short upstrum, no distortion, high strings, open A minor chord, one single strum only, clean studio recording, no other instruments",
+   "seconds": 1.0
+  },
+  {
+   "file": "gtr-reggae-skank",
+   "type": "sfx",
+   "text": "clean electric guitar reggae skank, one short choked upstroke chop, staccato, muted immediately",
+   "seconds": 0.5
   }
  ]
 }
