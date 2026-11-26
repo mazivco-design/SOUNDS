@@ -459,6 +459,76 @@
     "stability": 1.0
    },
    "seed": 42
+  },
+  {
+   "file": "word-watermelon",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Watermelon.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "word-blueberry",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Blueberry.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "word-coconut",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Coconut.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "word-mango",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Mango.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "word-lemon",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Lemon.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "word-banana",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Banana.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "word-pear",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Pear.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
   }
  ]
 }
