@@ -529,6 +529,76 @@
     "stability": 1.0
    },
    "seed": 42
+  },
+  {
+   "file": "chant-watermelon",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Wa. Ter. Me. Lon.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "chant-blueberry",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Blue. Ber. Ry.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "chant-coconut",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Co. Co. Nut.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "chant-mango",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Man. Go.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "chant-lemon",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Le. Mon.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "chant-banana",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Ba. Na. Na.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "chant-pear",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Pear.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
   }
  ]
 }
