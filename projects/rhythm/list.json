@@ -299,6 +299,166 @@
    "type": "sfx",
    "text": "clean electric guitar reggae skank, one short choked upstroke chop, staccato, muted immediately",
    "seconds": 0.5
+  },
+  {
+   "file": "syl-wa",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Wah.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-ter",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "ter.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-me",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "meh.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-lon",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "lun.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-blue",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Blue.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-ber",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "ber.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-ry",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "ree.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-co",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Koh.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-nut",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "nut.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-man",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Man.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-go",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "go.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-lem",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Leh.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-mon",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "mun.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-ba",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Buh.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-na",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "nah.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
+  },
+  {
+   "file": "syl-pear",
+   "type": "tts",
+   "voice": "Sarah",
+   "text": "Pear.",
+   "settings": {
+    "stability": 1.0
+   },
+   "seed": 42
   }
  ]
 }
