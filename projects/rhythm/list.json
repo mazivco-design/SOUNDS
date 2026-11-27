@@ -599,6 +599,66 @@
     "stability": 1.0
    },
    "seed": 42
+  },
+  {
+   "file": "gtr2-down-a",
+   "type": "sfx",
+   "text": "Steel-string acoustic guitar: one single slow downward strum of an open G major chord with a pick across all six strings, then the chord rings out and fades naturally. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 3.0
+  },
+  {
+   "file": "gtr2-up-a",
+   "type": "sfx",
+   "text": "Steel-string acoustic guitar: one single quick upward strum, an upstroke with a pick on the three thinnest strings of an open G major chord, short bright ring. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 2.0
+  },
+  {
+   "file": "gtr2-down-b",
+   "type": "sfx",
+   "text": "Solo acoustic guitar plays exactly one full open E minor chord, strummed once downward with fingers, warm and full, let it sustain. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 3.0
+  },
+  {
+   "file": "gtr2-up-b",
+   "type": "sfx",
+   "text": "Solo acoustic guitar plays exactly one light upstroke on an open E minor chord, only the high strings, thin and bright. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 2.0
+  },
+  {
+   "file": "gtr2-down-c",
+   "type": "sfx",
+   "text": "Guitar chord strum sample, acoustic guitar, one hit, open D major chord, downstroke, bright, sustained. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 3.0
+  },
+  {
+   "file": "gtr2-up-c",
+   "type": "sfx",
+   "text": "Guitar chord strum sample, acoustic guitar, one hit, open D major chord, upstroke on the treble strings, short. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 2.0
+  },
+  {
+   "file": "gtr2-chuck-a",
+   "type": "sfx",
+   "text": "Acoustic guitar percussive muted strum: the palm mutes all strings while the pick scratches down across them once, a short dead 'chk' click with no pitch. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 0.6
+  },
+  {
+   "file": "gtr2-chuck-b",
+   "type": "sfx",
+   "text": "Acoustic guitar string slap, one muted dead-note strum, percussive scratch, very short, no ringing notes. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 0.6
+  },
+  {
+   "file": "gtr2-bass-a",
+   "type": "sfx",
+   "text": "Acoustic guitar: the thumb plucks the open low A string once, a single deep bass note that rings. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 2.0
+  },
+  {
+   "file": "gtr2-bass-e",
+   "type": "sfx",
+   "text": "Acoustic guitar: the thumb plucks the open low E string once, a single deep bass note that rings. Dry studio recording, close microphone, no reverb, no other instruments, no background noise.",
+   "seconds": 2.0
   }
  ]
 }
